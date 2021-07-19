@@ -1,0 +1,84 @@
+h1{
+	font-family: 'Oswald', sans-serif;
+}
+
+p{
+	margin: 20px;
+}
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+.font {
+	font-family: 'Oswald', sans-serif;
+}
+
+table, th, td {
+  
+}
+
+span{
+	margin: 50px;
+	height: 30px;
+}
+
+caption{
+	font-family: 'Oswald', sans-serif;
+	font-size: 35px;
+}
+
+img{
+	margin: 30px;
+	width: 300px;
+	height: 350px;
+}
+
+.block{
+	margin: 25px;
+	background-color: #004078;
+	color: white;
+
+}
+.main {
+	margin: 25px;
+	text-align: right|top;
+	background-color: white;
+	margin: 30px;
+	background-color: 
+}
+
+.b-headline{
+	text-align: center;
+	background-color: #01305A;
+	color: white;
+}
+
+.m-headline{
+	border-bottom: 5px solid #01305A; 
+	font-size: 30px;
+	color: #01305A;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.column1{
+	flex: 20%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-rows: 100px 300px;
+}
